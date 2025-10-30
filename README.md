@@ -13,7 +13,9 @@ Me apasiona crear soluciones útiles, bien estructuradas y con buen diseño.
 - 🤝 Abierto a colaborar en proyectos y a seguir aprendiendo de otros desarrolladores.
 
 ---
+
 Aparte de enseñar y desarrollar, disfruto con el gimnasio 🏋️‍♂️, la lectura 📚 y especialmente los libros de autoayuda 💡. Me encanta la música americana 🎵, las películas y las series 📺, y compartir buenos momentos (¿una buena charla y algo para brindar?🍻). Me apasiona seguir aprendiendo y seguir avanzando día a día 🚀.
+
 ---
 
 ### 🧰 Tecnologías que manejo
