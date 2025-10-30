@@ -13,6 +13,8 @@ Me apasiona crear soluciones útiles, bien estructuradas y con buen diseño.
 - 🤝 Abierto a colaborar en proyectos y a seguir aprendiendo de otros desarrolladores.
 
 ---
+Aparte de enseñar y desarrollar, disfruto con el gimnasio 🏋️‍♂️, la lectura 📚 y especialmente los libros de autoayuda 💡. Me encanta la música americana 🎵, las películas y las series 📺, y compartir buenos momentos (¿una buena charla y algo para brindar?🍻). Me apasiona seguir aprendiendo y seguir avanzando día a día 🚀.
+---
 
 ### 🧰 Tecnologías que manejo
 | Lenguajes | Frameworks | Herramientas |
@@ -22,15 +24,17 @@ Me apasiona crear soluciones útiles, bien estructuradas y con buen diseño.
 ---
 
 ### 📂 Proyectos destacados
-- 🗂️ [Gestor de Tareas (Android + Room)]([https://github.com/ManuelB/TaskManagerApp](https://github.com/ManuelBenavente999/Proyecto-Final-1DAM-Yestelle))  
-  Diseño de tienda web con front-end y back-end, gestion de usuarios con conexión a base de datos.
+- 🗂️ [Diseño tienda web (HTML, CSS y PHP)]([https://github.com/ManuelB/TaskManagerApp](https://github.com/ManuelBenavente999/Proyecto-Final-1DAM-Yestelle))  
+  Diseño de tienda web con login, front-end HTML y CSS y back-end, gestion y almacenamiento de usuarios con un registro y login con conexión a base de datos con PHP.
 
 ---
 
 ### 🌱 En este momento...
 Estoy fortaleciendo mis conocimientos en:
-- Java
-- Spring Boot y APIs REST
+- Java, HTML, CSS, PHP
+- SQL y MySQL
+- Inteligencia Artificial
+- Git y GitHub
 - Buenas prácticas, patrones de diseño y arquitectura de software
 
 ---
