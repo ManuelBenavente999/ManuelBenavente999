@@ -1,5 +1,5 @@
 # ManuelBenavente
-# 👋 ¡Hola! Soy Manuel Benavente
+# 👋 ¡Hola! Soy Manuel Benavente 💻
 
 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) con muchas ganas de aprender, crecer y seguir mejorando como programador.  
 Me apasiona crear soluciones útiles, bien estructuradas y con buen diseño.
