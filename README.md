@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="images/banner.png" alt="Banner" width="100%" />
+</p>
+
 # 👋 ¡Hola! Soy Manuel Benavente 💻
 
 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por el desarrollo de software y la mejora continua.
