@@ -1,4 +1,3 @@
-# ManuelBenavente
 # 👋 ¡Hola! Soy Manuel Benavente 💻
 
 💻 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) apasionado por el desarrollo de software y la mejora continua.
@@ -27,10 +26,16 @@ Me gusta compartir buenos momentos (¿una buena charla y algo para brindar? 🍻
 
 ---
 
-### 🧰 Tecnologías que manejo
-| Lenguajes | Frameworks | Herramientas |
-|------------|-------------|---------------|
-| Java · Kotlin · SQL · HTML · CSS | Spring Boot · Android SDK | Git · GitHub · Android Studio · MySQL |
+### 🧰 Tecnologías principales
+
+| **Categoría**           | **Tecnologías** |
+|--------------------------|-----------------|
+| 🧑‍💻 **Lenguajes**        | Java · HTML · CSS · PHP · SQL · Kotlin |
+| ⚙️ **Frameworks / Librerías** | Spring Boot · Android SDK |
+| 🗄️ **Bases de datos**    | MySQL · Oracle |
+| 🧰 **Herramientas / Entornos** | Git · GitHub · Visual Studio Code · NetBeans · Eclipse · Android Studio |
+| 🤖 **Áreas de interés**  | Inteligencia Artificial · Backend con Java · Desarrollo Android · Frontend con HTML y CSS |
+
 
 ---
 
