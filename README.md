@@ -55,7 +55,7 @@ Me gusta compartir buenos momentos (¿una buena charla y algo para brindar? 🍻
 ### 📫 Conecta conmigo
 - 💼 [LinkedIn](https://linkedin.com/in/manuelbenaventecarrillo)  
 - ✉️ Correo: manbegon1994@gmail.com  
-- ⚡ GitHub: [github.com/ManuelBenavente999](https://github.com/ManuelBenavente999)
+- ⚡ GitHub: [github.com/ManuelBenavente999](https://github.com/manuelbenaventecarrillo)
 
 ---
 
