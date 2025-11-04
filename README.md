@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner4.png" alt="Banner" width="100%" />
+  <img src="banner1.png" alt="Banner" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Manuel Benavente 💻
