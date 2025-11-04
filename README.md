@@ -41,6 +41,11 @@ Me gusta compartir buenos momentos (¿una buena charla y algo para brindar? 🍻
 | 🧰 **Herramientas / Entornos** | Git · GitHub · Visual Studio Code · NetBeans · Eclipse · Android Studio |
 | 🤖 **Áreas de interés**  | Inteligencia Artificial · Backend con Java · Desarrollo Android · Frontend con HTML y CSS |
 
+---
+
+### 🌍 Idiomas
+- 🇪🇸 **Español:** Nativo  
+- 🇬🇧 **Inglés:** Alto (B2) — Comunicación técnica y profesional fluida
 
 ---
 
@@ -51,6 +56,8 @@ Me gusta compartir buenos momentos (¿una buena charla y algo para brindar? 🍻
   **Aprendizaje clave:** conexión segura a base de datos, validación de formularios y diseño modular del código.
 
 ---
+
+
 
 ### 📫 Conecta conmigo
 - 💼 LinkedIn: [LinkedIn](linkedin.com/in/manuelbenaventecarrillo) (linkedin.com/in/manuelbenaventecarrillo)
