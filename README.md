@@ -60,7 +60,7 @@ Me gusta compartir buenos momentos (¿una buena charla y algo para brindar? 🍻
 
 
 ### 📫 Conecta conmigo
-- 💼 LinkedIn: [LinkedIn](linkedin.com/in/manuelbenaventecarrillo) (linkedin.com/in/manuelbenaventecarrillo)
+- 💼 LinkedIn: ([linkedin.com/in/manuelbenaventecarrillo](https://www.linkedin.com/in/manuelbenaventecarrillo/))
 - ✉️ Correo: manbegon1994@gmail.com  
 - ⚡ GitHub: [github.com/manuelbenaventecarrillo](https://github.com/manuelbenaventecarrillo)
 
